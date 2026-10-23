@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0. -->
 # Zenodo deposit form (paste exactly)
 
 This record is a **working preprint**. It does **not** claim the Clay Millennium statement.

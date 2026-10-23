@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0. -->
 # ns-i11-conditional-criterion
 Working notes: identified strain kernel A(θ,ω), κ=3/2, and a CONDITIONAL regularity criterion for 3D Navier–Stokes. Does NOT claim the Clay statement.
 
