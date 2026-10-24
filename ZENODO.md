@@ -22,7 +22,7 @@ Publication → Preprint
 - Family name: Frohman
 - Given names: Benjamin Stanley
 - Affiliation: independent, Texas, United States
-- ORCID: leave blank if none
+- ORCID: 0009-0006-7068-3718
 
 ## Description (paste as the abstract)
 
@@ -45,7 +45,8 @@ working notes
 
 ## License
 
-Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Apache License, Version 2.0 (Apache-2.0)
+Copyright (c) 2026 Benjamin Stanley Frohman.
 
 ## Language
 
@@ -79,4 +80,4 @@ Leave empty unless you already belong to one.
 
 ## After Publish
 
-Paste the new DOI back into this file and into README.md.
+Reserved Zenodo DOI: `10.5281/zenodo.22835069` (https://doi.org/10.5281/zenodo.22835069).

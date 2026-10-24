@@ -1,13 +1,13 @@
-Copyright 2026 Benjamin Stanley Frohman
+ns-i11-conditional-criterion
+Copyright 2026 Benjamin Stanley Frohman (ORCID: https://orcid.org/0009-0006-7068-3718)
 
 Author: Benjamin Stanley Frohman <frohmanbenjamin@gmail.com>
 ORCID: https://orcid.org/0009-0006-7068-3718
-GitHub: https://github.com/BenFrohman
+GitHub: https://github.com/BenFrohman/ns-i11-conditional-criterion
+Zenodo DOI: https://doi.org/10.5281/zenodo.22835069
 
-As of this commit, this repository is offered under the Apache License, Version 2.0.
-See LICENSE.
+This work includes software, formal specifications, and mathematical manuscripts
+developed by Benjamin Stanley Frohman and licensed under the Apache License,
+Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0). See LICENSE.
 
-The Zenodo record remains CC BY 4.0. Copies already received under that grant
-keep it. This commit does not change the Zenodo record.
-
-These notes do not claim the Clay statement.
+Copies already received under CC BY 4.0 keep that grant. This commit does not revoke it.
