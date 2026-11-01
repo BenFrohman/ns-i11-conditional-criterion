@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Working notes: identified strain kernel A(θ,ω), κ=3/2, and a conditional regularity criterion for 3D Navier–Stokes. Does NOT claim the Clay statement. Author: Benjamin Stanley Frohman. Apache-2.0. The Zenodo record remains CC BY 4.0."
+authors:
+  - family-names: "Frohman"
+    given-names: "Benjamin Stanley"
+    orcid: "https://orcid.org/0009-0006-7068-3718"
+    email: "frohmanbenjamin@gmail.com"
+license: "Apache-2.0"
+repository-code: "https://github.com/BenFrohman/ns-i11-conditional-criterion"
